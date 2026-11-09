@@ -1,0 +1,7 @@
+Research Gap and Positioning
+The reviewed literature shows substantial interest in robust machinery diagnosis under changing operating
+conditions. More complex solutions may involve multimodal fusion, causal representation learning, or
+adaptation to target-domain data. The present project investigates a more compact question: whether
+measured-speed-informed order-domain normalization improves performance relative to raw-signal learning,
+and whether a consistency term adds value once order-domain inputs are used. The project is positioned as a
+controlled empirical comparison, not as a claim that order tracking or consistency learning is entirely new.
