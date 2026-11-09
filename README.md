@@ -1,4 +1,4 @@
-Project 19: Order-Informed Domain Generalization for Rotating-Machinery Fault Diagnosis
+Order-Informed Domain Generalization for Rotating-Machinery Fault Diagnosis
 
 Project Overview
 
